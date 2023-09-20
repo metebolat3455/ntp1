@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\NTP\HelloWorldd\HelloWorldd\bin\Debug\HelloWorldd.exe.config
+C:\Users\PC\Desktop\NTP\HelloWorldd\HelloWorldd\bin\Debug\HelloWorldd.exe
+C:\Users\PC\Desktop\NTP\HelloWorldd\HelloWorldd\bin\Debug\HelloWorldd.pdb
+C:\Users\PC\Desktop\NTP\HelloWorldd\HelloWorldd\obj\Debug\HelloWorldd.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\NTP\HelloWorldd\HelloWorldd\obj\Debug\HelloWorldd.Form1.resources
+C:\Users\PC\Desktop\NTP\HelloWorldd\HelloWorldd\obj\Debug\HelloWorldd.Properties.Resources.resources
+C:\Users\PC\Desktop\NTP\HelloWorldd\HelloWorldd\obj\Debug\HelloWorldd.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\NTP\HelloWorldd\HelloWorldd\obj\Debug\HelloWorldd.exe
+C:\Users\PC\Desktop\NTP\HelloWorldd\HelloWorldd\obj\Debug\HelloWorldd.pdb
